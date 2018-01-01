@@ -10,8 +10,8 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 	 background-image:
-      linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), 
-      url('../images/bei_jingtu.jpg');
+      linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5)), 
+      url('../images/back.jpg');
 	  
 	@include font-size(16);
 }
