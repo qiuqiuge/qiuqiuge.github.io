@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: 作品集
+  url: /portfolio/ 
+  excerpt: "个人作品集"
+  image: 1.jpg
+  
+
+- title: 学习笔记
+  url: /study/ 
+  excerpt: "个人作品集"
+  image: 2.jpg
+  
+
+- title: 别联络我
+  url: /contact/
+  excerpt: "联络我"
+  image: 3.jpg
+  
