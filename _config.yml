@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: zhi hao 
-email: 784716740@qq.com
-description: "this is my blog"
+title: 邱邱哥学习空间 
+email: 873491063@qq.com
+description: "可 爱 又 迷 人 反 派 角 色"
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "ch-CN"
 locale: zh_CN # 本地化翻譯
-url: "www.zhihaopy.github.io" # the base hostname & protocol for your site
-twitter_username: hao ge
-github_username:  zhihaopy
+url: "www.qiuqiuge.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  qiuqiuge
 disqus_username:
 
 # Build settings
@@ -43,12 +43,12 @@ images: '/assets/images'
 
 # Site owner
 owner:
-  name: zhihao
-  email: 784716740@qq.com
-  twitter: hello
+  name: 阿邱
+  email: 873491063@qq.com
+  twitter: 我 没 有 推 特 哟
   google:
     ad-client:
     ad-slot:
-  bio: "社会你豪哥"
+  bio: "著 名 的 狠 人"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
