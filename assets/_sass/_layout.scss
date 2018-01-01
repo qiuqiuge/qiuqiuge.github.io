@@ -233,23 +233,23 @@ article {
     display: flex;
     margin: 1em auto;
     padding: .2em;
-    background-color: #fff;
+    background-color: #8B0000;
   }
 }
 
 .post-meta {
   padding-bottom: .5em;
   text-transform: uppercase;
-  color: #b9b9b9;
-  font-size: 70%;
+  color: #008844;
+  font-size: 80%;
   font-weight: bold;
   font-family: 'Roboto Condensed', sans-serif;
   a, a:hover, a:focus, a:visited {
-    color: #333;
+    color: #008844;
   }
 
   .meta-black {
-    color: #333;
+    color: #008844;
   }
 
 }
@@ -294,7 +294,7 @@ article {
 .blog-footer {
   height: 4em;
   margin: 5em auto 0;
-  font-size: 70%;
+  font-size: 50%;
   border-top: 1px solid #ddd;
   text-transform: uppercase;
   text-align: center;
@@ -328,7 +328,7 @@ article {
   &__title {
     font-size: 1em;
     font-weight: bold;
-    color: #333;
+    color: #008844
     margin-top: 10px;
     display: block;
   }
