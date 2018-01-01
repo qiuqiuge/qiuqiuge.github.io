@@ -33,7 +33,7 @@ owner:
     ad-client:
     ad-slot:
   bio: "邱禹升，社会上进分子"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: head.jpg # 160x160 px image for author byline
   disqus-shortname:
 
 
