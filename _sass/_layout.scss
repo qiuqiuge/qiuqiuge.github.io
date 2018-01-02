@@ -58,7 +58,8 @@
 			@include transition(color 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55));
 			@include transition(background-color 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55));
 			&:before,
-			&:after ;
+			&:after }
+			{
 				content: '';
 				display: block;
 				position: absolute;
