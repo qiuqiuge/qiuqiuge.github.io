@@ -29,12 +29,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: #de6fa1;
+$base-color                  	: #red;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $de6fa1;
+$primary-color               	: $red;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
