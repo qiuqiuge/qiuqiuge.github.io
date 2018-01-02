@@ -55,18 +55,15 @@
 			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
 			height: $masthead-height;
 			font-family: $alt-font;
-			@include transition(color 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55));
-			@include transition(background-color 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55));
 			&:before,
-			&:after }
-			{
+			&:after {
 				content: '';
 				display: block;
 				position: absolute;
 				top: 0;
 				left: 0;
-				height: 3px;
-				@include transition(width 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55));
+				height: 2px;
+				@include transition(width 0.3s);
 			}
 			&:before {
 				width: 100%;
@@ -74,15 +71,11 @@
 			}
 			&:after {
 				width: 0;
-				background-color: $oxfordblue;
+				background: $black;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
-			}
-			&:hover {
-				color: $oxfordblue;
-				background-color: $lemon;
 			}
 		}
 	}
@@ -276,14 +269,14 @@
 	@include fill-parent;
 	// expand image to cover full width of header
 	img {
-		width: 100%;
+		width: 50%;
 		@include media($medium) {
-			width: 50%;
+		    width: 50%;
 		}
-		@include media($large) {
-			width: 33%;
+		@include media($large){
+		    width: 33%
 		}
-
+		
 	}
 }
 // make image flush with edges on small screens
