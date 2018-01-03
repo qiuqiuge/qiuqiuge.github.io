@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: article
 title:  "study"
+data: 2018-01-03 10:58:58 +0800
 categories: study
+
 ---
 
 ###  - 学习笔记
