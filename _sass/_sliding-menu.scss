@@ -29,7 +29,7 @@
   display: block;
   width: $button-size * 2;
   height: $button-size * 2;
-  background: rgba(61,34,62,0.8);
+  background: $primary-color;
   outline: 0;
   padding: 0;
   border: 2.5px solid transparent;
@@ -37,20 +37,18 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $stormcloud;
+    background: $black;
   }
   transition: $sliding-menu-animation;
   &.slide {
     background: $danger-color;
     transform: translateX(0); /* don't slide close button on small screens only */
-    /* disable reset slide position
     @include media($medium) {
-      transform: translateX(em(-600)); 
+      transform: translateX(em(-600)); /* reset slide position */
     }
     @include media($large) {
-      transform: translateX(em(-900)); 
+      transform: translateX(em(-900)); /* reset slide position */
     }
-    */
   }
 }
 
@@ -89,7 +87,7 @@
     @include media($large) {
       margin-right: 20%;
     }
-    color: #595959;
+    color: $white;
     @include font-size(14);
     @include media($small) {
       @include font-size(16);
@@ -127,7 +125,7 @@
   .menu-item {
     a {
       display: block;
-      color: #595959;
+      color: $white;
       text-decoration: none;
     }
     .teaser {
@@ -135,16 +133,15 @@
       left: 0;
       margin-bottom: 0;
       width: 50px;
-      border: 1px solid $white;
+      border: 2px solid $white;
       margin-bottom: ($gutter / 2);
       opacity: 0.6;
       @include media($small) {
-        width: 150px;
+        width: 100px;
       }
     }
     a:hover .teaser {
       opacity: 1;
-      border: 3px solid $stormcloud;
     }
     .title {
       display: block;
@@ -165,9 +162,6 @@
         margin-left: 170px;
         @include font-size(16,no);
       }
-    }
-    .title:hover,.excerpt:hover,.teaser:hover{
-        color: $stormcloud;
     }
   }
   .sub-menu-item > li a {
