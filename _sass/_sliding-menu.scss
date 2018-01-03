@@ -29,7 +29,7 @@
   display: block;
   width: $button-size * 2;
   height: $button-size * 2;
-  background: $primary-color;
+  background: rgba(61,34,62,0.8);
   outline: 0;
   padding: 0;
   border: 2.5px solid transparent;
@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $black;
+    background: $stormcloud
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -162,7 +162,9 @@
         margin-left: 170px;
         @include font-size(16,no);
       }
-    }
+	  .title:hover,.excerpt:hover,.teaser:hover{
+	    color:stormcloud
+      }
   }
   .sub-menu-item > li a {
     display: block;
