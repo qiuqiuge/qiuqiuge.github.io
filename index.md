@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "文 章"
+title: "Achol"
 ---
 
 <div class="tiles">
