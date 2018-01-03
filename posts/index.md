@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "信息可视化作品集"
+title: "网页制作及信息可视化的文章、笔记"
 date: 2017-01-02T10:03:03-04:00
 modified:
 tags: []
