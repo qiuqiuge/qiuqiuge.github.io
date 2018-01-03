@@ -25,7 +25,7 @@ $white                        : #fff;
 $black                        : #000;
 $bwhite                       : rgba(61,34,62,0.8);
 $stormcloud                   : #4f666a
-$body-color                  	: #ebebeb;
+$body-color                  	: $stormcloud;
 
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
