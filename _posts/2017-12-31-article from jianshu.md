@@ -2,7 +2,7 @@
 layout: article
 title:  "不说你不知，这两个细节也会影响你的网页制作质量"
 date:  更新于 2017-12-29
-categories: 
+categories: posts rwd
 image:
   teaser: ot.jpg
   feature: ot.jpg
