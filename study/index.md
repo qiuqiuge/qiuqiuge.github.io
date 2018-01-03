@@ -2,6 +2,9 @@
 layout: article
 title:  "study"
 categories: study
+
+image:
+  feature:
 ---
 
 # 小邱的学习笔记
