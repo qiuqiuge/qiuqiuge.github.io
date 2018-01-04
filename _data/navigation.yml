@@ -1,9 +1,9 @@
 # Site navigation links
 
 - title: HTML文章、笔记
-  url: /posts/rwd/ 
+  url: /posts rwd/ 
   excerpt: "小 邱 的 HTML 学 习 笔 记 耶"
-  image: posts rwd.jpg
+  image: posts/rwd.jpg
 
 - title: 信息可视化文章、笔记
   url: /posts/infovis/
