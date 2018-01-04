@@ -6,7 +6,7 @@ modified:
 tags: []
 
 image: 
-  feature: 30.jpg
+  feature: 30.png
 ---
 
  
