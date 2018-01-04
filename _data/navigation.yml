@@ -1,23 +1,24 @@
 # Site navigation links
 
-- title: 学习笔记以及文章
-  url: /posts/ 
-  excerpt: "小 邱 的 学 习 笔 记 耶"
-  image: 2.jpg
+- title: HTML文章、笔记
+  url: /posts/rwd/ 
+  excerpt: "小 邱 的 HTML 学 习 笔 记 耶"
+  image: posts rwd.jpg
 
-- title: HTML作品集
-  url: /portfolio/ 
-  excerpt: "我 的 网 页"
-  image: 1.jpg
-  
+- title: 信息可视化文章、笔记
+  url: /posts/infovis/
+  excerpt: "小 邱 的 信 息 可 视 化 笔 记"
+  image: posts infovis.jpg
 
 - title: 信息可视化作品集
   url: /infovis/ 
   excerpt: "tableau 啊"
-  image: 40.jpg 
-   
-- title: 别联络我
-  url: /contact/
-  excerpt: "你 点 不 开 哟"
-  image: 3.jpg
+  image: infovis.jpg  
+  
+- title: HTML作品集
+  url: /portfolio/ 
+  excerpt: "我 的 网 页"
+  image: portfolio.jpg
+  
+
 

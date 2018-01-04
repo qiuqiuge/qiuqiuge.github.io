@@ -6,12 +6,12 @@ modified:
 tags: []
 
 image: 
-  feature: 50.jpg
+  feature: html.jpg
 ---
 
  
-#### [期末HTML作品](https://qiuqiuge.github.io/portfolio/page/index)
-* [gai的说唱江湖](https://qiuqiuge.github.io/portfolio/page/index)
+#### [期末HTML作品](https://qiuqiuge.github.io/portfolio/web/index)
+* [gai的说唱江湖](https://qiuqiuge.github.io/portfolio/web/index)
 
  
 <div class="tiles">
