@@ -12,7 +12,7 @@ image:
 
 
 <div class="tiles">
-{% for post in site.categories.Infovis %}
+{% for post in site.categories.INFOVIS %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 Infovis 的列出来-->
+</div><!-- /.tiles 把所有categories 有 INFOVIS 的列出来-->
