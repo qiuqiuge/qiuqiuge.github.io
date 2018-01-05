@@ -10,12 +10,12 @@ image:
 ---
 
  
-#### [期末可视化作品](https://qiuqiuge.github.io/infovis/tableau/index.html)
-* [运动品牌实体店的商业竞争](https://qiuqiuge.github.io/infovis/tableau/index.html)
+#### [期末可视化作品](https://public.tableau.com/views/_6970/1_2?:embed=y&:display_count=yes&publish=yes)
+* [运动品牌实体店的商业竞争](https://public.tableau.com/views/_6970/1_2?:embed=y&:display_count=yes&publish=yes)
 
  
 <div class="tiles">
-{% for post in site.categories.tableau %}
+{% for post in site.categories.homework %}
 {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 tableau 的列出来-->
+</div><!-- /.tiles 把所有categories 有 homework的列出来-->
