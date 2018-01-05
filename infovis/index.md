@@ -10,8 +10,8 @@ image:
 ---
 
  
-#### [期末可视化作品](https://qiuqiuge.github.io/infovis/Visualization/index.html)
-* [运动品牌实体店的商业竞争](https://qiuqiuge.github.io/infovis/Visualization/index.html)
+#### [期末可视化作品](https://qiuqiuge.github.io/infovis/tableau/index.html)
+* [运动品牌实体店的商业竞争](https://qiuqiuge.github.io/infovis/tableau/index.html)
 
  
 <div class="tiles">
