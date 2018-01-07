@@ -2,7 +2,7 @@
 layout: article
 title:  "李宁与安踏实体店分布详细对比分析!"
 date:  更新于 2017-12-30
-categories: posts infovis infovisnotes
+categories: posts infovis homework
 image:
   teaser: tableau lining.png
   feature: 
