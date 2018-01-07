@@ -6,7 +6,7 @@ modified:
 tags: []
 
 image: 
-  feature: Visualization.png
+  feature: 
 ---
 
  
@@ -14,7 +14,7 @@ image:
 - <a href="https://public.tableau.com/views/_18413/1_2?:embed=y&:display_count=yes" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a52393c28c74.png)</ a>
  
 <div class="tiles">
-{% for post in site.categories.homework %}
+{% for post in site.categories.infovis %}
 {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 homework的列出来-->
+</div><!-- /.tiles 把所有categories 有 infovis的列出来-->
