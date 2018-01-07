@@ -11,7 +11,7 @@ image:
 
  
 #### [期末可视化作品]
-- <a href="https://public.tableau.com/views/_18413/1_2?:embed=y&:display_count=yes" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a52393c28c74.png)</ a>
+- <a href="https://public.tableau.com/views/_18413/1_2?:embed=y&:display_count=yes" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a52393c28c74.png)
  
 <div class="tiles">
 {% for post in site.categories.infovis %}
